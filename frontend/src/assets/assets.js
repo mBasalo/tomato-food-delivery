@@ -91,4 +91,49 @@ export const assets ={
     twitter_icon, upload_area
 }
 
+export const menu_list = [
+
+    {
+        menu_name: "Salad",
+        menu_image: menu_1
+    },
+
+    {
+        menu_name: "Rolls",
+        menu_image: menu_2
+    },
+
+    {
+        menu_name: "Deserts",
+        menu_image: menu_3
+    },
+
+    {
+        menu_name: "Sandwich",
+        menu_image: menu_4
+    },
+
+    {
+        menu_name: "Cakes",
+        menu_image: menu_5
+    },
+
+    {
+        menu_name: "Meals",
+        menu_image: menu_6
+    },
+
+    {
+        menu_name: "Pastas",
+        menu_image: menu_7
+    },
+
+    {
+        menu_name: "Healthy",
+        menu_image: menu_8
+    },
+
+
+]
+
 export const url = 'http://localhost:4000'
