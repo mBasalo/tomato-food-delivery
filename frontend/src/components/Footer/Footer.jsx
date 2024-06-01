@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni cum debitis distinctio, maxime aut facilis. Dignissimos itaque facere reprehenderit tempora earum aut, amet maiores, minus libero quisquam, dolorum voluptas vel?</p>
-            <div className="foote-social-icons">
+            <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
                 <img src={assets.linkedin_icon} alt="" />
@@ -34,6 +34,8 @@ const Footer = () => {
             </ul>
         </div>
       </div>
+      <hr />
+      <p className="footer-copyright">Copyright © 2024 Tomato.com - All Rights Reserved</p>
     </div>
   );
 };
