@@ -20,6 +20,9 @@ const Cart = () => {
           <p>Remove</p>
         </div>
 
+        <br />
+        <hr />
+
       </div>
 
     </div>
