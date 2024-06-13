@@ -9,3 +9,13 @@
     color: grey;
     font-size: max(1vw, 1rem);
 }
+
+.cart-items-item {
+    margin: 10px 0px;
+    color: black;
+
+    img {
+        width: 3rem;
+    }
+}
+

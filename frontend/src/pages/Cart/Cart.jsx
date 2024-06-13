@@ -27,6 +27,7 @@ const Cart = () => {
           if(cartItems[item._id]>0)
             {
               return (
+                <div>
                 <div className="cart-items-title cart-items-item">
                   <img src={item.image} alt="" />
                   <p>{item.name}</p>
@@ -36,6 +37,9 @@ const Cart = () => {
                   <p>x</p>
 
                 </div>
+                <hr />
+                </div>
+                
               )
             }
         })}
