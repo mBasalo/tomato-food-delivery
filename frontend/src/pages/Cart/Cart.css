@@ -23,5 +23,9 @@
     img {
         width: 3rem;
     }
+
+    .cross {
+        cursor: pointer;
+    }
 }
 
