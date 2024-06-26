@@ -64,6 +64,32 @@
     }
 }
 
+@media (max-width: 1050px) {
+    .navbar .logo {
+        width: 140px;
+
+    }
+
+    .navbar-menu {
+        gap: 20px;
+        font-size: 17px;
+
+    }
+
+    .navbar-right {
+        gap: 30px;
+
+        img {
+            width: 22px;
+
+        }
+
+        button {
+            padding: 8px 25px;
+        }
+    }
+}
+
 
 
 
