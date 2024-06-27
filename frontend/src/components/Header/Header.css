@@ -38,3 +38,26 @@
         border-radius: 1rem;
     }
 }
+
+@media(max-width:1050px) {
+
+
+    .header-contents {
+        max-width: 45%;
+    }
+}
+
+@media(max-width:750px) {
+
+    .header-contents {
+        max-width: 65%;
+    }
+
+    button {
+        padding: 2vw 4vw;
+    }
+
+    .header-p {
+        display: none;
+    }
+}

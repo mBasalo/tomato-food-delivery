@@ -90,6 +90,44 @@
     }
 }
 
+@media (max-width: 900px) {
+    .navbar .logo {
+        width: 120px;
+
+    }
+
+    .navbar-menu {
+        gap: 15px;
+        font-size: 14px;
+
+    }
+
+    .navbar-right {
+        gap: 20px;
+
+        img {
+            width: 20px;
+
+        }
+
+        button {
+            padding: 6px 20px;
+            font-size: 15px;
+        }
+    }
+}
+
+@media (max-width: 750px) {
+
+    .navbar-menu {
+   display: none;
+
+    }
+
+}
+
+
+
 
 
 
