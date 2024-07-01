@@ -1,0 +1,32 @@
+La aplicación "Tomato Food Delivery" es una plataforma de entrega de alimentos. Permite a los usuarios explorar diferentes opciones de restaurantes y menús, realizar pedidos en línea y gestionar entregas de comida. Es probable que incluya características como búsqueda de restaurantes, selección de platos, carrito de compras, procesamiento de pagos y seguimiento de pedidos.
+
+
+BACKEND
+
+dependencys: 
+
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+express: Un framework minimalista y flexible para Node.js, que proporciona un conjunto de características robustas para aplicaciones web y móviles.
+
+mongoose: Una biblioteca de modelado de datos de MongoDB para Node.js, que proporciona una solución basada en esquemas para la gestión de datos.
+
+jsonwebtoken: Una implementación de JSON Web Tokens (JWT) en Node.js, que se utiliza para la autenticación y la transmisión segura de información entre las partes.
+
+bcrypt: Una biblioteca para hashing de contraseñas, que ayuda a mantener seguras las contraseñas en las aplicaciones.
+
+cors: Un paquete para habilitar CORS (Cross-Origin Resource Sharing) en aplicaciones web, permitiendo solicitudes de diferentes orígenes.
+
+dotenv: Un módulo para cargar variables de entorno desde un archivo .env en process.env.
+
+body-parser: Un middleware para analizar los cuerpos de las solicitudes HTTP, que es útil para manejar datos enviados en formularios y JSON. (Nota: en las versiones más recientes de Express, body-parser ya está incluido).
+
+multer: Un middleware para manejar el multipart/form-data, que se usa principalmente para subir archivos.
+
+stripe: La biblioteca oficial de Stripe para Node.js, que permite interactuar con la API de Stripe para procesar pagos.
+
+validator: Una biblioteca para validar y sanitizar cadenas de texto.
+
+nodemon: Una herramienta que ayuda a desarrollar aplicaciones basadas en Node.js reiniciando automáticamente la aplicación cuando se detectan cambios en los archivos del directorio.
+
+Este comando instalará todos estos paquetes y los añadirá a las dependencias del archivo package.json de tu proyecto.
