@@ -30,3 +30,8 @@ validator: Una biblioteca para validar y sanitizar cadenas de texto.
 nodemon: Una herramienta que ayuda a desarrollar aplicaciones basadas en Node.js reiniciando automáticamente la aplicación cuando se detectan cambios en los archivos del directorio.
 
 Este comando instalará todos estos paquetes y los añadirá a las dependencias del archivo package.json de tu proyecto.
+
+
+iniciar server
+
+npm run server
