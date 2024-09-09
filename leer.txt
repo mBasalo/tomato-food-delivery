@@ -1,4 +1,6 @@
-La aplicación "Tomato Food Delivery" es una plataforma de entrega de alimentos. Permite a los usuarios explorar diferentes opciones de restaurantes y menús, realizar pedidos en línea y gestionar entregas de comida. Es probable que incluya características como búsqueda de restaurantes, selección de platos, carrito de compras, procesamiento de pagos y seguimiento de pedidos.
+La aplicación "Tomato Food Delivery" es una plataforma de entrega de alimentos. Permite a los usuarios explorar 
+diferentes opciones de restaurantes y menús, realizar pedidos en línea y gestionar entregas de comida. incluye 
+búsqueda de restaurantes, selección de platos, carrito de compras, procesamiento de pagos y seguimiento de pedidos.
 
 
 BACKEND
@@ -35,3 +37,23 @@ Este comando instalará todos estos paquetes y los añadirá a las dependencias 
 iniciar server
 
 npm run server
+
+https://www.youtube.com/watch?v=DBMPXJJfQEA&t=14922s
+
+minuto 4:10:18 ahora vamos a renderizar las imagenes subidas mediante el backend testeadas con thunder client en el frontend.
+       4:12:23 creamos la enpoint para ver la lista de comidas y poder desplegarlas en la base de datos.
+       4:18:21 remover items de la food list
+
+       4:28:40 volvemos al front - creacion del panel de administrador.
+
+       npm create vite@latest
+
+       npm install axios react-toastify react-router-dom 
+
+
+       4:55:35 añadir un nuevo producto a la base de datos dese el panel del administrador
+
+       5:08:40 terminada la UI de la pagina "add" y comenzamos con la logica
+
+
+
