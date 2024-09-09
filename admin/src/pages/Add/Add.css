@@ -12,7 +12,12 @@
 
 .add-img-upload {
     width: 120px;
+
+    img {
+        cursor: pointer;
+    }
 }
+
 
 .add-product-name {
     width: max(40%, 280px);
