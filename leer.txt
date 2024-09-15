@@ -55,5 +55,7 @@ minuto 4:10:18 ahora vamos a renderizar las imagenes subidas mediante el backend
 
        5:08:40 terminada la UI de la pagina "add" y comenzamos con la logica
 
+       5:32:00 comenzamos el listado de items agregados conectados a la base de datos. desplegados en el panel de adm/list
+
 
 
