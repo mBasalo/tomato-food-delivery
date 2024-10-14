@@ -22,7 +22,7 @@ port: Define el puerto en el que el servidor escuchará
 las peticiones. En este caso, es el puerto 4000*/
 
 const app = express()
-const port = 4000 
+const port = process.env.PORT || 4000;
 
 //----------------------------------------------------------------------------------------
 
